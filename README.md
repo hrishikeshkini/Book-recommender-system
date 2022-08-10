@@ -46,7 +46,7 @@ User Interface & deployment :  Created an UI with a form that take the necessary
 ## Installation
 Click here to install [python](https://www.python.org/downloads/). To install the required packages and libraries, run this pip command in the project directory after cloning the repository:
 ```bash
-git clone https://github.com/hrishikeshkini/movie-recommender-system.git
+git clone https://github.com/hrishikeshkini/Book-recommender-system.git
 pip install -r requirements.txt
 ```
 If pip is not already installed, Follow this [link](https://pip.pypa.io/en/stable/installation/)
