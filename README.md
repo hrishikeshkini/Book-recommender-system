@@ -15,8 +15,8 @@ The main goal of this project is to recommend the 4 books based on user interest
 ## Demo
 Link: [https://book-recommender-systemcf.herokuapp.com/](https://book-recommender-systemcf.herokuapp.com/)
 
-![Screenshot](images/home.PNG)
-![Screenshot](images/result.PNG)
+![Screenshot](images/home.png)
+![Screenshot](images/result.png)
 
 
 ## Problem Statement
